@@ -1,6 +1,7 @@
 # TNN - New Progress in Neural Network Training
 ## Features
 **Fast Train** - train on OpenCV lib
+
 **Web Interface** - if you not got a server - web interface
 ## Installation
 ```bash
@@ -13,4 +14,5 @@ python main.py
 **Warning! Replace "YOUR_WEIGHTS_HERE" to you weights file names!**
 ## Libraries
 **-** OpenCV
+
 **-** Flask
