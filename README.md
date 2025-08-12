@@ -1,4 +1,6 @@
 # TNN - New Progress in Neural Network Training
+## Description
+TNN is a free neural network training program! Model weights are needed for training!
 ## Features
 **Fast Train** - train on OpenCV lib
 
