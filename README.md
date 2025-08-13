@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.88+-blue)
+![OpenCV](https://img.shields.io/badge/OpenCV-4.0+-orange)
+![Flask](https://img.shields.io/badge/Flask-3.0+-purple)
+![Bash](https://img.shields.io/badge/Bash-black)
 # TNN - New Progress in Neural Network Training
 ## Description
 TNN is a free neural network training program! Model weights are needed for training!
